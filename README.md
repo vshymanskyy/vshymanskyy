@@ -10,8 +10,6 @@
 - `23.06.2015` [Embedded. What Why How](https://www.slideshare.net/vshymanskyy/embedded-what-why-how) / SlideShare
 - `16.01.2015` [Dev Tools](https://www.slideshare.net/vshymanskyy/tools-43583211) / SlideShare
 - `18.11.2014` [Екзотичні мови, як для мікроконтролерів](vshymanskyy.blogspot.com/2014/11/blog-post_18.html) / Blogspot
-...
-```
 
 ## Recognition
 - [Ukrainian IT Awards 2020](https://itawards.ua/en/#winners) Research Project of a year (finalist: Wasm3)
