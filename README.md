@@ -1,7 +1,5 @@
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
-## About me
-
 ## Publications
 - `01.01.2021` [Wasm3 - The fastest WebAssembly interpreter](https://www.youtube.com/watch?v=lDAN46s0r1U) / WebAssembly Live! London - On Air 2021
 - `30.03.2018` [Запуск двіжка JS на мікроконтролері](https://www.youtube.com/watch?v=3GQ2XlYa0NA) / JS Fest 2018
