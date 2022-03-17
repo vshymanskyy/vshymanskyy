@@ -3,7 +3,7 @@
 ## About me
 
 ## Publications
-
+- `01.01.2021` [Wasm3 - The fastest WebAssembly interpreter](https://www.youtube.com/watch?v=lDAN46s0r1U) WebAssembly Live! London - On Air / 2021
 - `30.03.2018` [Запуск двіжка JS на мікроконтролері](https://www.youtube.com/watch?v=3GQ2XlYa0NA) / JS Fest 2018
 - `11.10.2016` [Про Media Hack Weekend 2016](https://www.mixcloud.com/radioskovoroda/%D0%BF%D1%80%D0%BE-media-hack-weekend-2016-11-%D0%B6%D0%BE%D0%B2%D1%82%D0%BD%D1%8F-2016-radio-skovoroda/) / Radio SKOVORODA
 - `25.03.2016` [Як стати успішним ІТ-шником до 25 років](http://stud-point.blogspot.com/2016/03/25.html) / STUD-POINT
