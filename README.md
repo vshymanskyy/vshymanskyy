@@ -1,5 +1,8 @@
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
+
+[![vshymanskyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=vshymanskyy&show_icons=true&hide_title=false&include_all_commits=true)](#)
+
 ## Publications
 
 - `06.12.2021` [WebAssembly for constrained environments, **UA**](https://www.youtube.com/watch?v=kNmYsyN9gwE) / Embedded Fest 2021
