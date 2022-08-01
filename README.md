@@ -5,7 +5,7 @@
 
 ## Publications
 
-- `27.07.2022` [µON /muon/ - a compact and simple binary object notation](https://bit.ly/muon-present)
+- `20.07.2022` [µON /muon/ - a compact and simple binary object notation](https://bit.ly/muon-present)
 - `06.12.2021` [WebAssembly for constrained environments, **UA**](https://www.youtube.com/watch?v=kNmYsyN9gwE) / Embedded Fest 2021
 - `01.01.2021` [Wasm3 - The fastest WebAssembly interpreter, **EN**](https://www.youtube.com/watch?v=lDAN46s0r1U) / WebAssembly Live! London - On Air 2021
 - `30.03.2018` [Запуск двіжка JS на мікроконтролері](https://www.youtube.com/watch?v=3GQ2XlYa0NA) / JS Fest 2018
